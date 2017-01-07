@@ -1,6 +1,7 @@
 # Middleman
 .sass-cache/
 build/*
+log
 
 # Misc
 .DS_Store
