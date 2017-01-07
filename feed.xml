@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Drops Template</title>
-  <id>http://blog.example.com</id>
-  <link href="http://blog.example.com"/>
-  <link href="http://blog.example.com/feed.xml" rel="self"/>
+  <title>Andrew Cox</title>
+  <id>http://andrewcox.org</id>
+  <link href="http://andrewcox.org"/>
+  <link href="http://andrewcox.org/feed.xml" rel="self"/>
   <updated>2015-11-19T19:00:00-05:00</updated>
   <author>
-    <name>Site Author</name>
+    <name>Software Craftsman</name>
   </author>
   <entry>
     <title>This is an example article</title>
-    <link rel="alternate" href="http://blog.example.com/2015/11/20/this-is-an-example-article/"/>
-    <id>http://blog.example.com/2015/11/20/this-is-an-example-article/</id>
+    <link rel="alternate" href="http://andrewcox.org/2015/11/20/this-is-an-example-article/"/>
+    <id>http://andrewcox.org/2015/11/20/this-is-an-example-article/</id>
     <published>2015-11-19T19:00:00-05:00</published>
-    <updated>2017-01-07T17:42:38-05:00</updated>
+    <updated>2017-01-07T18:30:03-05:00</updated>
     <summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium...&lt;/p&gt;</summary>
     <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.&lt;/p&gt;
 

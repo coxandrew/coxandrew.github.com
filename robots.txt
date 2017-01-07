@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://blog.example.com/sitemap.xml
+Sitemap: http://andrewcox.org/sitemap.xml
