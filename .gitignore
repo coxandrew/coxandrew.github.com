@@ -2,6 +2,7 @@
 .sass-cache/
 build/*
 log
+.tmp
 
 # Misc
 .DS_Store
