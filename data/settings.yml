@@ -1,8 +1,8 @@
-site_url: 'http://blog.example.com'
-site_title: 'Drops Template'
-site_description: 'Site Description'
-site_author: 'Site Author'
-site_author_profile: 'Lorem ipsum dolor sit amet, cu facilis indoctum interpretaris has. Ius ea quod euismod fierent, per in legere gubergren accommodare, ut labitur partiendo urbanitas duo. Tamquam inciderint at sed. Per at nibh graecis intellegebat. Probo brute ancillae sit ex, tota recusabo disputando usu et.'
+site_url: 'http://andrewcox.org'
+site_title: 'Andrew Cox'
+site_description: 'A Site About Me'
+site_author: 'Software Craftsman'
+site_author_profile: "I am a maker."
 site_author_image: 'profile.png'
 reverse_title: true
 social_links:
