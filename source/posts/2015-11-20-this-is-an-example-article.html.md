@@ -1,28 +1,17 @@
 ---
-title: This is an example article
-tags: odd, even
+title: Actively seeking employment
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+For the first time since I graduated college in 2001, I am actively looking for a new job. This has given me a rare opportunity to be more introspective about what I want in a job. Like a rock skipping across a river, I've dipped into and out of development for the last 15 years. I've worked at a variety of companies from small to large, consumer products to enterprise software. Now I think I have a pretty good idea of the kind of environment I thrive in.
 
-## Headline 2
+If you want to learn more about what I bring to the table, check out my [About Me](/author) page.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
+<!-- ## Culture
 
-### Headline 3
+## Technology Stack
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+## Leadership
 
-```ruby
-class Person
-  include ActiveModel::Model
-  attr_accessor :name, :age
-end
+## Product
 
-person = Person.new(name: 'bob', age: '18')
-person.name # => 'bob'
-person.age  # => 18
-```
-
-Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-
+ -->

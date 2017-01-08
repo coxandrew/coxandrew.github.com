@@ -1,13 +1,11 @@
 site_url: 'http://andrewcox.org'
 site_title: 'Andrew Cox'
-site_description: 'A Site About Me'
-site_author: 'Software Craftsman'
-site_author_profile: "I am a maker."
-site_author_image: 'profile.png'
+site_description: 'The personal site of Andrew Cox, software craftsman.'
+site_author: 'Andrew Cox'
+site_author_image: 'profile-bw.jpg'
 reverse_title: true
 social_links:
-  twitter: 'https://twitter.com'
-  facebook: 'https://facebook.com'
-  github: 'https://github.com/5t111111'
-  linkedin: 'https://linkedin.com'
+  twitter: 'https://twitter.com/coxandrew'
+  github: 'https://github.com/coxandrew'
+  linkedin: 'https://www.linkedin.com/in/drewcox'
 # google_analytics_account: 'XX-12345678-9'

@@ -1,0 +1,27 @@
+- title 'About Me - Andrew Cox'
+
+h1
+  | About Me
+
+p
+  | I am a web developer living in Pittsburgh, PA.
+
+h2 Philosophy
+
+h2 Web Development
+
+p
+  | lajd flkajs dflkjsdf kj
+
+h2 Hobbies
+
+p
+  | lkjas flkjs dljksadf
+
+.social-wrapper
+  ul
+    - data.settings.social_links.each do |name, url|
+      - if url
+        li
+          a href="#{url}"
+            i class=['fa', "fa-#{name}-square"]

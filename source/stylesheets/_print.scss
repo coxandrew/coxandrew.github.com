@@ -1,0 +1,15 @@
+@media print {
+  .top-menu,
+  footer {
+   display: none;
+  }
+  header .logo {
+    font-size: 2rem;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  .page-break {
+    page-break-before: always;
+  }
+}
