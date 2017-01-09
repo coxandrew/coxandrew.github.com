@@ -39,3 +39,107 @@ h2 {
   color: #666;
   font-size: 1.4rem;
 }
+
+/* =resume
+---------------------------------------------------------------------------- */
+.resume-logo {
+  font-size: 2.0rem;
+}
+.contact-resume {
+  list-style-type: none;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+
+  li {
+    margin-right: 25px;
+  }
+  a {
+    white-space: nowrap;
+
+    i {
+      padding-right: 5px;
+    }
+  }
+}
+.skill {
+  display: flex;
+}
+.skill-name {
+  width: 10em;
+  text-align: right;
+  margin-right: 10px;
+}
+.skill-rating {
+  display: flex;
+}
+.skill-point,
+.skill-score {
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  align-self: center;
+  margin-right: 5px;
+  text-align: center;
+
+  font-size: 1.2rem;
+  font-weight: bold;
+
+  border-radius: 50%;
+  background: #ddd;
+}
+.skill-score {
+  background: #000;
+  color: #fff;
+  border-radius: 0;
+  background: #555;
+  margin-right: 10px;
+}
+.rating-1 .skill-point:nth-child(1),
+.rating-2 .skill-point:nth-child(-n+2),
+.rating-3 .skill-point:nth-child(-n+3),
+.rating-4 .skill-point:nth-child(-n+4),
+.rating-5 .skill-point:nth-child(-n+5),
+.rating-6 .skill-point:nth-child(-n+6),
+.rating-7 .skill-point:nth-child(-n+7),
+.rating-8 .skill-point:nth-child(-n+8),
+.rating-9 .skill-point:nth-child(-n+9),
+.rating-10 .skill-point:nth-child(-n+10) {
+  background: #639DCF;
+}
+
+@media (max-width: 570px) {
+  body {
+    font-size: 1.4rem;
+  }
+  article h1 {
+    font-size: 2.0rem;
+  }
+  h2 {
+    font-size: 1.8rem;
+  }
+  .subtitle {
+    font-size: 1.5rem;
+  }
+  .dates {
+    font-size: 1.2rem;
+  }
+
+  .skill-name,
+  .skill-score {
+    font-size: 1.2rem;
+  }
+  .skill-point,
+  .skill-score {
+    width: 15px;
+    height: 15px;
+    line-height: 15px;
+  }
+}
+
+@media (max-width: 400px) {
+  .skill-name,
+  .skill-score {
+    font-size: 1rem;
+  }
+}

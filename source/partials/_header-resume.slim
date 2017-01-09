@@ -1,0 +1,41 @@
+.top-menu
+  .top-menu-wrapper
+    .top-menu-list
+      ul
+        li
+          a href="/"
+            | Home
+        li
+          a href="/about-me/"
+            | About Me
+        li
+          a href="/resume/"
+            | Résumé
+        / li
+        /   a href="/archives/"
+        /     | Archives
+        / li
+        /   a href="/tags/"
+        /     | Tags
+        / li
+        /   a href="/by-year/"
+        /     | By Year
+        //li
+        //  a href="/feed.xml"
+        //    i.fa.fa-rss-square
+    / .feed
+    /   a href="/feed.xml"
+    /     i.fa.fa-rss-square
+h1.logo.resume-logo
+  a href="/" title="#{data.settings.site_title}"
+    span.logo-text
+      | Andrew Cox
+  ul.contact-resume
+    li
+      a href="mailto:andrew@andrewcox.org"
+        i class=['fa', "fa-envelope-square"]
+        | andrew@andrewcox.org
+    li
+      a href="https://twitter.com/coxandrew"
+        i class=['fa', "fa-twitter-square"]
+        | @coxandrew

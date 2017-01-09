@@ -3,13 +3,39 @@
   footer {
    display: none;
   }
+
+  body {
+    font-size: 1.4rem;
+  }
+
+  article h1 {
+    font-size: 2.0rem;
+  }
+  h2 {
+    font-size: 1.8rem;
+  }
+  .subtitle {
+    font-size: 1.5rem;
+  }
+  .dates {
+    font-size: 1.2rem;
+  }
+
   header .logo {
     font-size: 2rem;
     padding-top: 0;
     padding-bottom: 0;
   }
-
+  main {
+    margin-top: 55px;
+  }
   .page-break {
     page-break-before: always;
+  }
+
+  main a:after {
+    content:" (" attr(href) ")";
+    font-size:0.8em;
+    font-weight:normal;
   }
 }
