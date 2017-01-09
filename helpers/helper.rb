@@ -1,3 +1,23 @@
+def mailto email="user@example.com", string="contact me", classes
+  mail_to = 'mailto:'
+  at = '@'
+  dot = '.'
+
+  comp = email.split("@")
+
+  # process string, if it is an email address
+  if string.include?("@") then
+    string.gsub!("@", at + "&zwnj;").gsub!(".", dot)
+  end
+
+  obfuscated_email = "<a class=\"#{classes}\" href='javascript:void(0)' rel='nofollow' onclick='str1=\"#{comp[0]}\";str2=\"#{comp[1]}\";this.href=\"#{mail_to}\" + str1 + \"@\" + str2'>"
+  obfuscated_email += "<i class=\"fa fa-envelope-square\"></i>"
+  obfuscated_email += string
+  obfuscated_email += "</a>"
+
+  return obfuscated_email
+end
+
 def format_date(date)
   date.strftime('%B %d, %Y')
 end
