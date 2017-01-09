@@ -4,38 +4,38 @@
   <id>http://andrewcox.org</id>
   <link href="http://andrewcox.org"/>
   <link href="http://andrewcox.org/feed.xml" rel="self"/>
-  <updated>2015-11-19T19:00:00-05:00</updated>
+  <updated>2016-01-07T19:00:00-05:00</updated>
   <author>
-    <name>Software Craftsman</name>
+    <name>Andrew Cox</name>
   </author>
   <entry>
-    <title>This is an example article</title>
-    <link rel="alternate" href="http://andrewcox.org/2015/11/20/this-is-an-example-article/"/>
-    <id>http://andrewcox.org/2015/11/20/this-is-an-example-article/</id>
-    <published>2015-11-19T19:00:00-05:00</published>
-    <updated>2017-01-07T18:30:03-05:00</updated>
-    <summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium...&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.&lt;/p&gt;
+    <title>Actively seeking employment</title>
+    <link rel="alternate" href="http://andrewcox.org/2016/01/08/actively-seeking-employment/"/>
+    <id>http://andrewcox.org/2016/01/08/actively-seeking-employment/</id>
+    <published>2016-01-07T19:00:00-05:00</published>
+    <updated>2017-01-09T16:33:13-05:00</updated>
+    <summary type="html">&lt;p&gt;For the first time since I graduated college in 2001, I am actively looking for a new job. This has given me a rare opportunity to be more introspective about what I want in a job. Like a rock skipping across a river, I’ve dipped into and out of development...&lt;/p&gt;</summary>
+    <content type="html">&lt;p&gt;For the first time since I graduated college in 2001, I am actively looking for a new job. This has given me a rare opportunity to be more introspective about what I want in a job. Like a rock skipping across a river, I’ve dipped into and out of development for the last 15 years. I’ve worked at a variety of companies from small to large, consumer products to enterprise software. Now I think I have a pretty good idea of the kind of environment I thrive in.&lt;/p&gt;
 
-&lt;h2 id="headline-2"&gt;Headline 2&lt;/h2&gt;
+&lt;p&gt;If you want to learn more about what I bring to the table, check out my &lt;a href="/about-me"&gt;About Me&lt;/a&gt; page and my &lt;a href="/resume/"&gt;résumé&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.&lt;/p&gt;
+&lt;p&gt;Now, in priority order, are what I want in my next job.&lt;/p&gt;
 
-&lt;h3 id="headline-3"&gt;Headline 3&lt;/h3&gt;
+&lt;h2 id="1-team"&gt;1. Team&lt;/h2&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I want to work with people who are better than me.&lt;/strong&gt; I want my next gig to stretch me technically.&lt;/p&gt;
 
-&lt;pre class="highlight ruby"&gt;&lt;code&gt;&lt;span class="k"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;Person&lt;/span&gt;
-  &lt;span class="kp"&gt;include&lt;/span&gt; &lt;span class="no"&gt;ActiveModel&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="no"&gt;Model&lt;/span&gt;
-  &lt;span class="kp"&gt;attr_accessor&lt;/span&gt; &lt;span class="ss"&gt;:name&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ss"&gt;:age&lt;/span&gt;
-&lt;span class="k"&gt;end&lt;/span&gt;
+&lt;h2 id="2-culture"&gt;2. Culture&lt;/h2&gt;
 
-&lt;span class="n"&gt;person&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="no"&gt;Person&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;new&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="ss"&gt;name: &lt;/span&gt;&lt;span class="s1"&gt;'bob'&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="ss"&gt;age: &lt;/span&gt;&lt;span class="s1"&gt;'18'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;person&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;name&lt;/span&gt; &lt;span class="c1"&gt;# =&amp;gt; 'bob'&lt;/span&gt;
-&lt;span class="n"&gt;person&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="nf"&gt;age&lt;/span&gt;  &lt;span class="c1"&gt;# =&amp;gt; 18&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I want to work at a fun, user-centric, continuous improvement company.&lt;/strong&gt; Culture is a broad category and I &lt;em&gt;almost&lt;/em&gt; put it above the &lt;strong&gt;Team&lt;/strong&gt;, but I’ve worked at a company with a mediocre culture and a great team, and the awesome team trumped the mixed-bag culture.&lt;/p&gt;
 
+&lt;h2 id="3-process"&gt;3. Process&lt;/h2&gt;
+
+&lt;h2 id="4-technology-stack"&gt;4. Technology Stack&lt;/h2&gt;
+
+&lt;h2 id="5-leadership"&gt;5. Leadership&lt;/h2&gt;
+
+&lt;h2 id="6-product"&gt;6. Product&lt;/h2&gt;
 </content>
   </entry>
 </feed>

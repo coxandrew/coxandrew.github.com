@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://andrewcox.org/2015/11/20/</loc>
+    <loc>http://andrewcox.org/2016/01/08/</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://andrewcox.org/tags/even/</loc>
+    <loc>http://andrewcox.org/tags/</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://andrewcox.org/2015/</loc>
+    <loc>http://andrewcox.org/2016/</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://andrewcox.org/2015/11/</loc>
+    <loc>http://andrewcox.org/2016/01/</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://andrewcox.org/about-me/</loc>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://andrewcox.org/archives/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://andrewcox.org/author/</loc>
     <priority>0.5</priority>
   </url>
   <url>
@@ -33,15 +33,11 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://andrewcox.org/2015/11/20/this-is-an-example-article/</loc>
+    <loc>http://andrewcox.org/2016/01/08/actively-seeking-employment/</loc>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://andrewcox.org/tags/</loc>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://andrewcox.org/tags/odd/</loc>
+    <loc>http://andrewcox.org/resume/</loc>
     <priority>0.5</priority>
   </url>
 </urlset>
