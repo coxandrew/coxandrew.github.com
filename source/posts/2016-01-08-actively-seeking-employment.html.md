@@ -8,13 +8,13 @@ Now I think I have a pretty good idea of the kind of environment I thrive in - I
 
 Below, I've described, in *priority order*, what I'm looking for in my next job. Whereas I may be more willing to bend on the items further down my list, I'm much less likely to yield on the items at the top.
 
-*P.S.* If you want to learn more about what I bring to the table, check out my [About Me](/about-me) page and my [résumé](resume).
+If you want to learn more about what I bring to the table, check out my [About Me](/about-me) page and my [résumé](resume).
 
 ## What I want
 
 ### 1. Team
 
-**I want to work with people who are better than me.** I want my next gig to stretch me technically. I have a broad skillset that makes me pretty dangerous, but I want to level up on Ruby, Rails, automated testing, and scaling a large application. I want to sharpen my responsive design and JavaScript skills. I don't actually want to be the [*worst* member of the band](https://www.goodreads.com/quotes/392893-always-be-the-worst-guy-in-every-band-you-re-in), but I'd like there to at least be people that are clearly better than me.
+**I want to work with people who are better than me.** I want my next gig to stretch me technically. I have a broad skillset that makes me pretty dangerous, but I want to level up on Ruby, Rails, automated testing, and scaling a large application. I want to sharpen my responsive design and JavaScript skills. I don't actually want to be the [*worst* member of the band](https://www.goodreads.com/quotes/392893-always-be-the-worst-guy-in-every-band-you-re-in), but I'd like there to be people that are clearly better than me.
 
 ### 2. Culture
 
@@ -36,7 +36,7 @@ I want a company where the majority of the people dress up on Halloween. I want 
 
 ### 5. Technology Stack
 
-**I want to work with Ruby on Rails.** I've been working with Rails as a hobbyist and as a professional on and off since before Rails hit 1.0 in 2005. Not until Elixir and Phoenix have I seen a tech stack that I think has the potential to dethrone Rails as the best web framework. Speaking of Phoenix, if you're have a Phoenix position and you're willing to swallow the ramp-up time, I'd **definitely** entertain it.
+**I want to work with Ruby on Rails.** I've been working with Rails as a hobbyist and as a professional on and off since before Rails hit 1.0 in 2005. Not until Elixir and Phoenix have I seen a tech stack that I think has the potential to dethrone Rails as the best web framework. Speaking of Phoenix, if you have a Phoenix position and you're willing to swallow the ramp-up time, I'd **definitely** entertain it.
 
 ### 6. Product
 
@@ -45,12 +45,6 @@ I want a company where the majority of the people dress up on Halloween. I want 
 ## What else?
 
 There are obvious things like compensation and location, but I think this is a good representation of what I'm looking for. Does this sound like your company? Did this make you think about what *you* want in a job? Please get in touch or spread the word!
-
-> "I want to work on something that makes me want to program wet and naked." 
->
-> Sr. Rails Dev reverse job posting: http://andrewcox.org/2016/01/08/actively-seeking-employment/
-
-[Click to tweet](https://twitter.com/intent/tweet?text=%22I%20want%20to%20work%20on%20something%20that%20makes%20me%20want%20to%20program%20wet%20and%20naked.%22%20%0D%0A%0D%0ASr.%20Rails%20Dev%20reverse%20job%20posting%3A%20http%3A%2F%2Fandrewcox.org%2F2016%2F01%2F08%2Factively-seeking-employment%2F&source=clicktotweet&related=clicktotweet)
 
 * Email: [drew.cox+jobs@gmail.com](mailto:drew.cox+jobs@gmail.com)
 * Twitter: [@coxandrew](https://twitter.com/coxandrew)
