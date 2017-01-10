@@ -13,29 +13,67 @@
     <link rel="alternate" href="http://andrewcox.org/2016/01/08/actively-seeking-employment/"/>
     <id>http://andrewcox.org/2016/01/08/actively-seeking-employment/</id>
     <published>2016-01-07T19:00:00-05:00</published>
-    <updated>2017-01-09T16:33:13-05:00</updated>
+    <updated>2017-01-09T20:21:12-05:00</updated>
     <summary type="html">&lt;p&gt;For the first time since I graduated college in 2001, I am actively looking for a new job. This has given me a rare opportunity to be more introspective about what I want in a job. Like a rock skipping across a river, I’ve dipped into and out of development...&lt;/p&gt;</summary>
-    <content type="html">&lt;p&gt;For the first time since I graduated college in 2001, I am actively looking for a new job. This has given me a rare opportunity to be more introspective about what I want in a job. Like a rock skipping across a river, I’ve dipped into and out of development for the last 15 years. I’ve worked at a variety of companies from small to large, consumer products to enterprise software. Now I think I have a pretty good idea of the kind of environment I thrive in.&lt;/p&gt;
+    <content type="html">&lt;p&gt;For the first time since I graduated college in 2001, I am actively looking for a new job. This has given me a rare opportunity to be more introspective about what I want in a job. Like a rock skipping across a river, I’ve dipped into and out of development for the last 15 years. I’ve worked at a variety of companies from small to large, consumer products to enterprise software. I’ve been a developer, a team lead, a manager, and a director of product development.&lt;/p&gt;
 
-&lt;p&gt;If you want to learn more about what I bring to the table, check out my &lt;a href="/about-me"&gt;About Me&lt;/a&gt; page and my &lt;a href="/resume/"&gt;résumé&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Now I think I have a pretty good idea of the kind of environment I thrive in - I want to get back into web development as a Sr. Rails Developer at a small-to-medium sized product company.&lt;/p&gt;
 
-&lt;p&gt;Now, in priority order, are what I want in my next job.&lt;/p&gt;
+&lt;p&gt;Below, I’ve described, in &lt;em&gt;priority order&lt;/em&gt;, what I’m looking for in my next job. Whereas I may be more willing to bend on the items further down my list, I’m much less likely to yield on the items at the top.&lt;/p&gt;
 
-&lt;h2 id="1-team"&gt;1. Team&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;P.S.&lt;/em&gt; If you want to learn more about what I bring to the table, check out my &lt;a href="/about-me"&gt;About Me&lt;/a&gt; page and my &lt;a href="/resume/"&gt;résumé&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;I want to work with people who are better than me.&lt;/strong&gt; I want my next gig to stretch me technically.&lt;/p&gt;
+&lt;h2 id="what-i-want"&gt;What I want&lt;/h2&gt;
 
-&lt;h2 id="2-culture"&gt;2. Culture&lt;/h2&gt;
+&lt;h3 id="1-team"&gt;1. Team&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;I want to work at a fun, user-centric, continuous improvement company.&lt;/strong&gt; Culture is a broad category and I &lt;em&gt;almost&lt;/em&gt; put it above the &lt;strong&gt;Team&lt;/strong&gt;, but I’ve worked at a company with a mediocre culture and a great team, and the awesome team trumped the mixed-bag culture.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I want to work with people who are better than me.&lt;/strong&gt; I want my next gig to stretch me technically. I have a broad skillset that makes me pretty dangerous, but I want to level up on Ruby, Rails, automated testing, and scaling a large application. I want to sharpen my responsive design and JavaScript skills. I don’t actually want to be the &lt;a href="https://www.goodreads.com/quotes/392893-always-be-the-worst-guy-in-every-band-you-re-in"&gt;&lt;em&gt;worst&lt;/em&gt; member of the band&lt;/a&gt;, but I’d like there to at least be people that are clearly better than me.&lt;/p&gt;
 
-&lt;h2 id="3-process"&gt;3. Process&lt;/h2&gt;
+&lt;h3 id="2-culture"&gt;2. Culture&lt;/h3&gt;
 
-&lt;h2 id="4-technology-stack"&gt;4. Technology Stack&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;I want to work at a fun, user-centric, continuous improvement company.&lt;/strong&gt; Culture is a broad category and I &lt;em&gt;almost&lt;/em&gt; put this as my top requirement, but I’ve worked at a company with a mediocre culture and a great team, and the awesome team trumped that company’s mixed-bag culture.&lt;/p&gt;
 
-&lt;h2 id="5-leadership"&gt;5. Leadership&lt;/h2&gt;
+&lt;p&gt;I want the users’ needs to be the focus of our conversations. I want my coworkers, team, and company to want to continuously improve our processes. I want my coworkers to want to continuously improve themselves.&lt;/p&gt;
 
-&lt;h2 id="6-product"&gt;6. Product&lt;/h2&gt;
+&lt;p&gt;I want a company where the majority of the people dress up on Halloween. I want to have interesting lunch conversations about things outside of work. And I want there to be whimsy and animated gifs in our Slack chat rooms and pull requests.&lt;/p&gt;
+
+&lt;h3 id="3-process"&gt;3. Process&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;I want to work with mature processes and tools.&lt;/strong&gt; I’d like to work on a project that’s “move-in ready”. I’ve bootstrapped teams with Agile and XP a number of times now and I think it would be refreshing to join a team that doesn’t even think they have a process because that’s just “how we work”. I want to work with a team that ships code to production many times a day. I want automated tests and code reviews to be part of the “definition of done” for every story. I want there to be a coding style that is faithfully adhered to. I want to pair program at least on occasion.&lt;/p&gt;
+
+&lt;h3 id="4-interestingness"&gt;4. Interestingness&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;I want to work on something that makes me want to program wet and naked.&lt;/strong&gt; Ok, this was blatantly stolen from &lt;a href="https://ernie.io/2013/09/07/on-funemployment-and-my-next-job/"&gt;Ernie Miller’s funemployment post&lt;/a&gt; that inspired this one. The sentiment is perfect though:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;That probably needs some explanation. Do you know how, when you get a really tough problem to work on, or you are just making great progress on an app you’re really excited about, you go to bed thinking about how to accomplish what’s next? For me, I generally wake up thinking about it, too. Many of my past “aha!” moments have come when I’m in the shower. I’ve found myself resisting the urge to step out of the shower and immediately go write the code that’s in my head. That’s what I mean by “a job that makes me want to program wet and naked.” Some of the most fulfilling moments of my career have occurred on projects like that.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id="5-technology-stack"&gt;5. Technology Stack&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;I want to work with Ruby on Rails.&lt;/strong&gt; I’ve been working with Rails as a hobbyist and as a professional on and off since before Rails hit 1.0 in 2005. Not until Elixir and Phoenix have I seen a tech stack that I think has the potential to dethrone Rails as the best web framework. Speaking of Phoenix, if you’re have a Phoenix position and you’re willing to swallow the ramp-up time, I’d &lt;strong&gt;definitely&lt;/strong&gt; entertain it.&lt;/p&gt;
+
+&lt;h3 id="6-product"&gt;6. Product&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;I want to work on a product that solves a real problem.&lt;/strong&gt; The product does not have to be cool enough to impress my relatives at Thanksgiving dinner, but it &lt;em&gt;does&lt;/em&gt; need to solve a real problem. I am more interested in my product scratching a real itch than solving an interesting technical problem. On the flip side, even unglamorous projects that solve real problems can have very interesting technical and user experience challenges.&lt;/p&gt;
+
+&lt;h2 id="what-else"&gt;What else?&lt;/h2&gt;
+
+&lt;p&gt;There are obvious things like compensation and location, but I think this is a good representation of what I’m looking for. Does this sound like your company? Did this make you think about what &lt;em&gt;you&lt;/em&gt; want in a job? Please get in touch or spread the word!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I want to work on something that makes me want to program wet and naked.”&lt;/p&gt;
+
+  &lt;p&gt;Sr. Rails Dev reverse job posting: http://andrewcox.org/2016/01/08/actively-seeking-employment/&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/intent/tweet?text=%22I%20want%20to%20work%20on%20something%20that%20makes%20me%20want%20to%20program%20wet%20and%20naked.%22%20%0D%0A%0D%0ASr.%20Rails%20Dev%20reverse%20job%20posting%3A%20http%3A%2F%2Fandrewcox.org%2F2016%2F01%2F08%2Factively-seeking-employment%2F&amp;amp;source=clicktotweet&amp;amp;related=clicktotweet"&gt;Click to tweet&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Email: &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#100;&amp;#114;&amp;#101;&amp;#119;&amp;#046;&amp;#099;&amp;#111;&amp;#120;&amp;#043;&amp;#106;&amp;#111;&amp;#098;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;&amp;#100;&amp;#114;&amp;#101;&amp;#119;&amp;#046;&amp;#099;&amp;#111;&amp;#120;&amp;#043;&amp;#106;&amp;#111;&amp;#098;&amp;#115;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Twitter: &lt;a href="https://twitter.com/coxandrew"&gt;@coxandrew&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;LinkedIn: &lt;a href="https://www.linkedin.com/in/drewcox"&gt;profile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
   </entry>
 </feed>
