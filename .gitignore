@@ -1,6 +1,6 @@
 # Middleman
 .sass-cache/
-build/*
+build
 log
 .tmp
 
