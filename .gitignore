@@ -1,5 +1,6 @@
 # Middleman
 .sass-cache/
+node_modules
 build
 log
 .tmp

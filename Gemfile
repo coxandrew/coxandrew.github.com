@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
 
-# middleman
-gem 'middleman', '~> 4.1'
+gem 'middleman', '~> 4.2.0'
+gem 'middleman-autoprefixer', '~> 2.7.0'
+gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
+gem 'wdm', '~> 0.1', platforms: [:mswin, :mingw]
 
 # middleman-blog
 gem 'middleman-blog', '~> 4.0'
