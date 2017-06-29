@@ -149,7 +149,7 @@ GEM
       rack (~> 1.4)
     rack-livereload (0.3.16)
       rack
-    rb-fsevent (0.10.1)
+    rb-fsevent (0.9.8)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
     rouge (2.1.1)
@@ -187,6 +187,7 @@ DEPENDENCIES
   newrelic_rpm
   puma
   rack-contrib
+  rb-fsevent (= 0.9.8)
   slim
   tzinfo-data
   wdm (~> 0.1)

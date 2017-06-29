@@ -2,7 +2,9 @@
 title: Actively seeking employment
 ---
 
-For the first time since I graduated college in 2001, I am actively looking for a new job. This has given me a rare opportunity to be more introspective about what I want in a job. Like a rock skipping across a river, I've dipped into and out of development for the last 15 years. I've worked at a variety of companies from small to large, consumer products to enterprise software. I've been a developer, a team lead, a manager, and a director of product development. 
+**UPDATE: I am now gainfully employed and am no longer actively seeking employment. I'm leaving this post up for anyone interested in how I approached looking for a new job.**
+
+For the first time since I graduated college in 2001, I am actively looking for a new job. This has given me a rare opportunity to be more introspective about what I want in a job. Like a rock skipping across a river, I've dipped into and out of development for the last 15 years. I've worked at a variety of companies from small to large, consumer products to enterprise software. I've been a developer, a team lead, a manager, and a director of product development.
 
 Now I think I have a pretty good idea of the kind of environment I thrive in - I want to get back into web development as a Sr. Rails Developer at a small-to-medium sized product company.
 
@@ -18,7 +20,7 @@ If you want to learn more about what I bring to the table, check out my [About M
 
 ### 2. Culture
 
-**I want to work at a fun, user-centric, continuous improvement company.** Culture is a broad category and I *almost* put this as my top requirement, but I've worked at a company with a mediocre culture and a great team, and the awesome team trumped that company's mixed-bag culture. 
+**I want to work at a fun, user-centric, continuous improvement company.** Culture is a broad category and I *almost* put this as my top requirement, but I've worked at a company with a mediocre culture and a great team, and the awesome team trumped that company's mixed-bag culture.
 
 I want the users' needs to be the focus of our conversations. I want my coworkers, team, and company to want to continuously improve our processes. I want my coworkers to want to continuously improve themselves.
 

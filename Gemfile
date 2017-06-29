@@ -13,6 +13,7 @@ gem 'middleman-syntax'
 
 # Live-reloading plugin
 gem 'middleman-livereload'
+gem "rb-fsevent", "0.9.8" # temporary workaround: https://github.com/guard/listen/issues/431#issuecomment-311935770
 
 # For feed.xml.builder
 gem 'builder'
